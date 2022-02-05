@@ -75,4 +75,4 @@
 
 ### 🎧 Spotify Playing 
 
-[<img src="https://sins-spotify.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31osprrywen2havm3ifgv26bdx54)
+[<img src="https://sins-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/31osprrywen2havm3ifgv26bdx54)
