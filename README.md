@@ -62,7 +62,7 @@
 ## Connect with me:
 <p align="left">
 <a href = "fatkhinurakhsan@gmail.com"><img title="fatkhinurakhsan@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-<a href = "https://t.me/FnAkhsan"><img title="@FnAKhsan" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
+<a href = "https://t.me/FnAkhsan"><img title="@FnAkhsan" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/></a>
 <a href = "https://www.linkedin.com/in/fnakhsan/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "@S[in]S#8576"><img title="@S[in]S#8576" src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href = "https://www.instagram.com/fn.akhsan/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
