@@ -2,7 +2,7 @@
     <a href="https://www.youtube.com/watch?v=766qmHTc2ro" ><img title="🔥 My Favourite Song" src="https://cdn.discordapp.com/attachments/493742580132216845/870996909291098142/GIF-210731_184923.gif" height="300px"/></a>
 </p>
 
-<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Akhsan Here!</h1>
+<h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">, Akhsan Here!</h1>
 <h3 align="center">I'm College Student from Indonesia.</h3>
 
 
