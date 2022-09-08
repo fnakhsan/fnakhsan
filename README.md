@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fatkhinurakhsan@gmail.com**
 
-- ⚡ Fun fact **I want to be Machine Learning Engineer**
+- 🔥 **Still need to learn a lot**
 
 
 ## 🚀 My Tools and Languages:
