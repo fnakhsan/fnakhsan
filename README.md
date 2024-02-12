@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=766qmHTc2ro" ><img title="🔥 My Favourite Song" src="https://cdn.discordapp.com/attachments/493742580132216845/870996909291098142/GIF-210731_184923.gif" height="50%"/></a>
+<!--     <a href="https://www.youtube.com/watch?v=766qmHTc2ro" ><img title="🔥 My Favourite Song" src="https://cdn.discordapp.com/attachments/493742580132216845/870996909291098142/GIF-210731_184923.gif" height="50%"/></a> -->
 </p>
 
 <h1 align="center">Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="3%">, Akhsan Here!</h1>
@@ -26,8 +26,9 @@
 <p align="left"> 
     <a href="https://developer.android.com/" target="_blank"> <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img height="48" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/python/python.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+    <a href="https://dart.dev/" target="_blank"> <img height="40" src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+    <a href="https://flutter.dev/" target="_blank"> <img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
